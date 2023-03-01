@@ -8,14 +8,6 @@ define('BASE_URL', 'http://localhost:8080/');
 define('PAGE_LOADER', BASE_URL.'assets/img/loading.webp');
 
 //Client Specific site wide information
-define('CLIENT_FNAME','TIKAJ');
-define('CLIENT_MNAME','Technologies Private Limited');
-define('CLIENT_FULL_NAME', 'TIKAJ Technologies Private Limited');
-define('CLIENT_ADDRESS','Gurgaon, Haryana');
-define('CLIENT_CONATCT_NO','');
-define('CLIENT_PINCODE','');
-
-//Client Specific site wide information
 define('CLIENT_USER_REGISTRATION_AMOUNT', 200);
 define('CLIENT_REGISTRATION_FEE', CLIENT_USER_REGISTRATION_AMOUNT);
 define('CLIENT_DIRECT_COMMISSION', 0.10);
